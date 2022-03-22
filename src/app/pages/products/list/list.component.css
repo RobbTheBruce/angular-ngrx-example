@@ -1,0 +1,13 @@
+table{
+  width: 100%;
+}
+
+table {
+  max-width: 1000px;
+}
+
+.mat-column-options {
+  width: 80px;
+  text-align: center;
+  font-weight: bold;
+}
